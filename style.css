@@ -1,9 +1,9 @@
 body{
-
+    font-family: 'Poppins', sans-serif;
 }
 h1{
-  
-    font-size: 70px;
+    font-family: 'Zen Antique Soft', serif;
+    font-size: 60px;
 }
 h2{
     font-size: 50px;
@@ -21,6 +21,8 @@ p{
 .side-border{
     border-left: 5px solid red;
     padding-left: 15px ;
+    height: 156px;
+    
 }
 .color-orange{
     color: orange;
@@ -52,7 +54,7 @@ p{
        
 }
 .hlaf-width-mission-area{
-    width: 25%;
+    width: 30%;
     margin: 1%;
 }
 .hlaf-width-mission-area img{
@@ -89,4 +91,19 @@ footer{
 footer p{
     text-align: center;
     color: grey;
+}
+.surukha-app {
+    width: 50%;
+    margin-left: 0%;
+    margin-right: 10%;
+}
+.surukha-app img{
+    margin-left: 60%;
+}
+.surukha-application{
+    text-align: center;
+    margin-bottom: 70px ;
+}
+.color-red{
+    color: red;
 }
