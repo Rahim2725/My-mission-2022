@@ -1,0 +1,92 @@
+body{
+
+}
+h1{
+  
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+}
+.side-border{
+    border-left: 5px solid red;
+    padding-left: 15px ;
+}
+.color-orange{
+    color: orange;
+}
+
+.display-flex-contener{
+    display: flex;
+    margin-bottom: 10% ;
+}
+.hlaf-width{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 10%;
+  
+}
+.hlaf-width img{
+    width: 80%;
+}
+#imag-size{
+    margin-top: 0;
+   
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px ;
+    color: white;
+    font-weight: 700;
+    background-color: orangered;
+       
+}
+.hlaf-width-mission-area{
+    width: 25%;
+    margin: 1%;
+}
+.hlaf-width-mission-area img{
+    width: 40%;
+}
+#mission-area{
+    margin-left: 10%;
+    margin-right: 8%;
+}
+#mission{
+    background-color: rgb(203, 226, 240);
+    padding: 20px ;
+    border-radius: 25px ;
+}
+#vission{
+    background-color: rgb(224, 187, 173);
+    padding: 20px ;
+    border-radius: 25px ;
+}
+#goals{
+    background-color: rgb(239, 247, 127);
+    padding: 20px ;
+    border-radius: 25px ;   
+}
+#developer-area{
+    margin-left: 0;
+    margin-right: 5%;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 3px 0 ;
+}
+footer p{
+    text-align: center;
+    color: grey;
+}
